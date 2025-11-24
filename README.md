@@ -1,6 +1,6 @@
 # Hi, I'm Oviya Chandru 👋
 
-🎓 GDipSA Student at NUS | 💻 Aspiring Software Engineer | ✍ UI/UX Designer | 🎨 Portrait Artist
+🎓 GDipSA Student at NUS | 💻 Aspiring Software Engineer | 🎨 UI/UX Designer | ✍ Portrait Artist
 
 ---
 
