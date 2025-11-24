@@ -6,7 +6,7 @@
 
 ## 🚀 Skills
 **Languages:** SQL, Python, Java, HTML5, CSS3  
-**Frameworks:** Spring Boot, Thymeleaf, Bootstrap
+**Frameworks:** Spring Boot, Thymeleaf, Bootstrap<br>
 **Tools:** GitHub, Git, Maven, Docker, CI/CD (GitHub Actions)  
 **Domains:** UI/UX Design, Machine Learning, Web Development, System Design / Architecture
 
