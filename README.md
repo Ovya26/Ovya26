@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ov Chandru 👋
 
-<!--
-**Ovya26/Ovya26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 GDipSA Student at NUS | 💻 Aspiring Software Engineer | 🎨 Portrait Artist & UI/UX Designer  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+**Languages:** SQL, Python, Java, HTML5, CSS3  
+**Frameworks:** Spring Boot, Thymeleaf, Bootstrap
+**Tools:** GitHub, Git, Maven, Docker, CI/CD (GitHub Actions)  
+**Domains:** UI/UX Design, Machine Learning, Web Development, System Design / Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Career Goal
+Aspiring software engineer with experience in UI/UX design and portrait art. I aim to build scalable web applications, backend systems, and intuitive user interfaces.
+
+📫 Contact
+LinkedIn: https://www.linkedin.com/in/oviya-chandru-/
+Email: ovchandru08@gmail.com
+
+“Creativity is intelligence having fun.” — Albert Einstein
