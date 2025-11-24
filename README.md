@@ -1,4 +1,4 @@
-# Hi, I'm Ov Chandru 👋
+# Hi, I'm Oviya Chandru 👋
 
 🎓 GDipSA Student at NUS | 💻 Aspiring Software Engineer | 🎨 Portrait Artist & UI/UX Designer  
 
@@ -8,10 +8,10 @@
 **Tools:** GitHub, Git, Maven, Docker, CI/CD (GitHub Actions)  
 **Domains:** UI/UX Design, Machine Learning, Web Development, System Design / Architecture
 
-🎯 Career Goal
+# 🎯 Career Goal
 Aspiring software engineer with experience in UI/UX design and portrait art. I aim to build scalable web applications, backend systems, and intuitive user interfaces.
 
-📫 Contact
+# 📫 Contact
 LinkedIn: https://www.linkedin.com/in/oviya-chandru-/
 Email: ovchandru08@gmail.com
 
