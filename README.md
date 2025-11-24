@@ -19,7 +19,7 @@ Aspiring software engineer with experience in UI/UX design and portrait art. I a
 
 # 📫 Contact
 **LinkedIn:** https://www.linkedin.com/in/oviya-chandru-/
-**Email:** ovchandru08@gmail.com
+<br> **Email:** ovchandru08@gmail.com
 
 ---
 
