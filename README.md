@@ -1,6 +1,6 @@
 # Hi, I'm Oviya Chandru 👋
 
-🎓 GDipSA Student at NUS | 💻 Aspiring Software Engineer | 🎨 Portrait Artist & UI/UX Designer  
+🎓 GDipSA Student at NUS | 💻 Aspiring Software Engineer | ✍ UI/UX Designer | 🎨 Portrait Artist &   
 
 ## 🚀 Skills
 **Languages:** SQL, Python, Java, HTML5, CSS3  
@@ -12,7 +12,7 @@
 Aspiring software engineer with experience in UI/UX design and portrait art. I aim to build scalable web applications, backend systems, and intuitive user interfaces.
 
 # 📫 Contact
-LinkedIn: https://www.linkedin.com/in/oviya-chandru-/
-Email: ovchandru08@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/oviya-chandru-/
+**Email:** ovchandru08@gmail.com
 
 “Creativity is intelligence having fun.” — Albert Einstein
